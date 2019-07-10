@@ -1,0 +1,38 @@
+.rowsetting{
+	margin: 80px 0px !important;
+}
+
+.rowsetting h1{
+	font-size: 23px;
+	font-weight: bold;
+}
+
+.imgsetting{
+	border-radius: 50%;
+	width: 100px;
+	height: 100px;
+}
+
+.fa-desktop{
+	margin-top: 30px;
+}
+
+.fa-shopping-cart{
+	margin-top: 30px;
+}
+
+.fa-code{
+	margin-top: 30px;
+}
+
+.fa-mobile{
+	margin-top: 30px;
+}
+
+.fa-search{
+	margin-top: 30px;
+}
+
+.fa-graduation-cap{
+	margin-top: 30px;
+}
